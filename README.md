@@ -6,10 +6,10 @@ El presente proyecto tratara de simular los algoritmos de planificación de proc
 ### •	schedsim
 Para el programa schedsim se debe ejecutar en Ubuntu de la siguiente forma:      
 >./schedsim  Paramtero1 Parametro2  Parametro
-**Parámetros:**
-Parametro1: Nombre de archivo de entrada donde se almacena una secuencia del proceso de llegada y tiempos de ráfaga.
-Parametro2: El algoritmo elegido: FCFS, SJF y Round Robind(rr).
-Parametro3: El quatun de tiempo Q round-robin (entero positivo), si y solo si el Parametro2 es rr.
+**Parámetros:**\
+Parametro1: Nombre de archivo de entrada donde se almacena una secuencia del proceso de llegada y tiempos de ráfaga.\
+Parametro2: El algoritmo elegido: FCFS, SJF y Round Robind(rr).\
+Parametro3: El quatun de tiempo Q round-robin (entero positivo), si y solo si el Parametro2 es rr.\
 ### •	schedgen
 Para el programa schedsim se debe ejecutar en Ubuntu de la siguiente forma :      
 >./schedgen Parametro1 Parametro2  Parametro3  Parametro4
