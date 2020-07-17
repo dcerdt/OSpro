@@ -6,7 +6,7 @@ El presente proyecto tratara de simular los algoritmos de planificación de proc
 ### •	schedsim
 Para el programa schedsim se debe ejecutar en Ubuntu de la siguiente forma:      
 ./schedsim  Paramtero1 Parametro2  Parametro\
-**Parámetros:**
+**Parámetros:**\
 Parametro1: Nombre de archivo de entrada donde se almacena una secuencia del proceso de llegada y tiempos de ráfaga.\
 Parametro2: El algoritmo elegido: FCFS, SJF y Round Robind(rr).\
 Parametro3: El quatun de tiempo Q round-robin (entero positivo), si y solo si el Parametro2 es rr.
@@ -21,12 +21,12 @@ Parametro4: El nombre del archivo que generará la ejecución del programa (Por 
 ### •	schedstats
 Para el programa schedsim se debe ejecutar en Ubuntu de la siguiente forma:      
 ./schedstats Parametro1\
-**Parámetros:**
+**Parámetros:**\
 Parametro1: El nombre de archivo de entrada que contiene los tiempos de proceso (el cual  es el mismo que se usa como  Parametro4 en el programa  Schedgen ).
 ### •	graficas.py
 Para el programa grafica.py se debe ejecutar en Ubuntu de la siguiente forma:    
 Python  3 graficas.py .\
-**Parámetros:**
+**Parámetros:**\
 El programa que gráfica, recibe el contenido de los archivos: schedturns.dat, schednturns.dat y schedwaits.dat del programa  Schedstats  , pero esto está dentro del programa , así que no se necesita  ingresar ningún parámetro. 
 
 ## Resultado típico
