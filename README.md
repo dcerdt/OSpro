@@ -16,7 +16,7 @@ Para el programa schedsim se debe ejecutar en Ubuntu de la siguiente forma :
 **Parámetros:**\
 Parametro1: El total número de procesos N (entero positivo).
 Parametro2: La probabilidad de llegada de un proceso pa (número real entre 0 y 1).\
-Parametro3: La probabilidad de longitud de ráfaga de un proceso pb (número real entre 0 y 1).\                   
+Parametro3: La probabilidad de longitud de ráfaga de un proceso pb (número real entre 0 y 1).                  
 Parametro4: El nombre del archivo que generará la ejecución del programa (Por recomendación debe llamarse “schedtimes.dat” , además este archivo se usara en el  programa   Schedstats).
 ### •	schedstats
 Para el programa schedsim se debe ejecutar en Ubuntu de la siguiente forma:      
