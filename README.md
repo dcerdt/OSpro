@@ -4,8 +4,8 @@
 El presente proyecto tratara de simular los algoritmos de planificación de procesos, descritos en el curso y en el capítulo 5 del texto guía “Operating System Concepts” 10th edition by Silberschatz, FCFS, SJF y Round Robind, usando una cola solo para interrupciones y una cola para procesos nuevos. Este proyecto contiene tres ejecutables separados: un simulador del Planificador schedsim, un generador de llegada de proceso schedgen y un programa de estadísticas y tiempos schedstats que produce archivos de datos consolidados utilizados para gráficos de rendimiento.
 ## Uso de los programas  
 ### •	schedsim
-Para el programa schedsim se debe ejecutar en Ubuntu de la siguiente forma:      
->./schedsim  Paramtero1 Parametro2  Parametro
+Para el programa schedsim se debe ejecutar en Ubuntu de la siguiente forma:\      
+>./schedsim  Paramtero1 Parametro2  Parametro\
 **Parámetros:**\
 Parametro1: Nombre de archivo de entrada donde se almacena una secuencia del proceso de llegada y tiempos de ráfaga.\
 Parametro2: El algoritmo elegido: FCFS, SJF y Round Robind(rr).\
