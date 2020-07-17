@@ -23,7 +23,7 @@ Para el programa schedsim se debe ejecutar en Ubuntu de la siguiente forma:
 ./schedstats Parametro1\
 **Parámetros:**\
 Parametro1: El nombre de archivo de entrada que contiene los tiempos de proceso (el cual  es el mismo que se usa como  Parametro4 en el programa  Schedgen ).
-### •	graficas.py
+### •	gráficas.py
 Para el programa grafica.py se debe ejecutar en Ubuntu de la siguiente forma:    
 Python  3 graficas.py .\
 **Parámetros:**\
